@@ -1,0 +1,3 @@
+The Naive Bayesian classifier is one of the most important tools for classification today.  Given a set of variables, the classifier constructs the posterior probability for an event among a set of possible outcomes.  This program takes a comma-delimited list of 'variable,feature' pairs as input (STDIN), and outputs both model predictions using a training data set and the measured values of the test data set, as well as the root mean squared error as a measure of model performance.
+
+This code is released under the terms of the MIT License (http://www.opensource.org/licenses/mit-license.php).
